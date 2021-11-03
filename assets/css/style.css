@@ -1,0 +1,11 @@
+body{
+    background-color: tomato;
+}
+
+.nav-logo{
+    width:40px;
+}
+
+.bg-dark{
+    background-color: transparent;
+}
