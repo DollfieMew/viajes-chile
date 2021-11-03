@@ -8,8 +8,17 @@ body{
     width:40px;
 }
 
+nav.active{
+    background-color: white;
+}
+
+nav.active .navbar-brand,
+nav.active a{
+   color: #17a2b8 !important; 
+}
+
 hr{
-    background-color: turquoise;
+    background-color: #17a2b8;
 }
 
 #quienes-somos span{
@@ -19,6 +28,11 @@ hr{
     margin: .5em 0;
 }
 
+footer p{
+    text-transform: uppercase;
+    font-weight: 600;
+    font-size: 1.5em;
+}
 footer a{
     color: #fff;
 }
