@@ -1,11 +1,12 @@
 body{
-    background-color: tomato;
+    font-family: 'Open Sans', sans-serif;
+    background-color:#000;
 }
 
 .nav-logo{
     width:40px;
 }
 
-.bg-dark{
-    background-color: transparent;
+hr{
+    background-color: turquoise;
 }
