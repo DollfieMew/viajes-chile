@@ -17,6 +17,10 @@ nav.active a{
    color: #17a2b8 !important; 
 }
 
+.navbar-toggler{
+    background-color: #17a2b8;
+}
+
 hr{
     background-color: #17a2b8;
 }
@@ -39,3 +43,5 @@ footer a{
 footer a:hover{
     color: #168798;
 }
+
+
