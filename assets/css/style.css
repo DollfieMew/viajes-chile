@@ -32,6 +32,10 @@ hr{
     margin: .5em 0;
 }
 
+.card img{
+    max-height: 150px;
+}
+
 footer p{
     text-transform: uppercase;
     font-weight: 600;
@@ -42,6 +46,25 @@ footer a{
 }
 footer a:hover{
     color: #168798;
+}
+
+.gatito{
+    text-align: right;
+}
+
+.gatito p{
+    text-align: left;
+}
+
+@media screen and (max-width:680px){
+    .gatito{
+        text-align: center !important;
+    }
+
+    .gatito p{
+        text-align: center;
+    }
+    
 }
 
 
